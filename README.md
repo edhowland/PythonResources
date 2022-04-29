@@ -10,7 +10,8 @@ was the current stable release of Python.
 ## Documentation
 
 The main Python docs
-[docs.python.org](docs.python.org)
+[https://docs.python.org/3/](https://docs.python.org/3/)
+
 
 
 ##  Python tutorial videos
