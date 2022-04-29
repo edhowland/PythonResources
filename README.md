@@ -68,4 +68,48 @@ Python Meta programming
 [https://www.youtube.com/watch?v=sPiWg5jSoZI](https://www.youtube.com/watch?v=sPiWg5jSoZI)
 
 
+### Corey Schaefer
 
+These videos are bite-sized between 10-30 minutes long.
+
+The complete Python playlist (143 videos)
+[https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+A better way to manage Python Virtual Environments with PipEnv
+[https://www.youtube.com/watch?v=zDYL22QNiWk](https://www.youtube.com/watch?v=zDYL22QNiWk)
+
+### Trey Hunter
+
+List Comprehensions and generators
+[https://www.youtube.com/watch?v=ei71YpmfRX4](https://www.youtube.com/watch?v=ei71YpmfRX4)
+
+List Comprehensions and generators from PyCon 2018
+[https://www.youtube.com/watch?v=_6U1XoxyyBY](https://www.youtube.com/watch?v=_6U1XoxyyBY)
+
+
+
+## Youtube channels
+
+### Tech with Tim
+[https://www.youtube.com/c/TechWithTim](https://www.youtube.com/c/TechWithTim)
+
+### NetworkChuck
+
+This guy drinks WAY too much coffee
+
+[https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+
+### David Beazley
+
+[https://www.youtube.com/channel/UCbNpPBMvCHr-TeJkkezog7Q](https://www.youtube.com/channel/UCbNpPBMvCHr-TeJkkezog7Q)
+
+## Books
+
+### By David Beazley
+
+- The Python Cookbook
+- Python Distilled
+- Python Essentials
+
+Links on Amazon
+[https://www.amazon.com/Books-David-Beazley/s?rh=n%3A283155%2Cp_27%3ADavid+Beazley](https://www.amazon.com/Books-David-Beazley/s?rh=n%3A283155%2Cp_27%3ADavid+Beazley)
