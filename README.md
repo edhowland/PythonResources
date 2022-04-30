@@ -31,28 +31,30 @@ These videos are taught by David J. Malan from the very popular CS50 online cour
 
 Historical note: When David himself took this course back in the day, it was taught by Brian Kernighan.
 
-CS50P Lectures 0, 1 and 2
+CS50P
+- Lectures 0, 1 and 2
+  - https://youtu.be/TJKnZ784bSI?t=461
 
-0. This  lecture covers Python's input/output, variables and strings, integers and floats
+  0: This  lecture covers Python's input/output, variables and strings, integers and floats</br>
+  1: This lecture covers conditionals and control flow</br>
+  2:  Looping</br>
 
-1. This lecture covers conditionals and control flow
+- Lectures 3 and 4
+  - https://youtu.be/hpxHkOG6Nyg?t=822
+  
+  3: Error handling and Exceptions</br>
+  4: Libraries including Python's standard libraries</br>
 
-2.  Looping
-- [https://www.youtube.com/watch?v=TJKnZ784bSI](https://www.youtube.com/watch?v=TJKnZ784bSI)
+- Lectures 5 and 6
+  - https://youtu.be/awVVjpBzuaI?t=730
 
-3. Error handling and Exceptions
+  5: Unit tests</br>
+  6: File input output</br>
 
-4. Libraries including Python's standard libraries
-- [https://www.youtube.com/watch?v=hpxHkOG6Nyg](https://www.youtube.com/watch?v=hpxHkOG6Nyg)
+- Lectures 7
+  - https://youtu.be/ENSHLS5DW8A?t=1116
 
-5. Unit tests
-
-6. File input output
-- [https://www.youtube.com/watch?v=awVVjpBzuaI](https://www.youtube.com/watch?v=awVVjpBzuaI)
-
-7. Regular Expressions
-- [https://www.youtube.com/watch?v=ENSHLS5DW8A](https://www.youtube.com/watch?v=ENSHLS5DW8A)
-
+  7: Regular Expressions
 
 
 ## David Beazley videos from various PyCons
