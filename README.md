@@ -52,7 +52,7 @@ CS50P
   - https://youtu.be/awVVjpBzuaI?t=730
 
   5: Unit tests</br>
-  6: File input output</br>
+  6: File input output</br> (1:42)
 
 - Lectures 7
   - https://youtu.be/ENSHLS5DW8A?t=1116
