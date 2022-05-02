@@ -27,6 +27,13 @@ These videos are taught by David J. Malan from the very popular CS50 online cour
 
 Historical note: When David himself took this course back in the day, it was taught by Brian Kernighan.
 
+These videos were shot live. So, there a few glitches. As the CS50 team posts 
+edit videos, I will update this list.
+
+Note re: timecodes Where possible, for the multiple lectures we have inserted the start time for each lecture.
+We have attempted to give a approximate 1 minute of fudge factor before the lecture start.
+If you feel we have errored herein, please fork, fix and do a PR.
+
 CS50P
 - Lectures 0, 1 and 2
   - https://youtu.be/TJKnZ784bSI?t=461
@@ -39,7 +46,7 @@ CS50P
   - https://youtu.be/hpxHkOG6Nyg?t=822
   
   3: Error handling and Exceptions</br>
-  4: Libraries including Python's standard libraries</br>
+  4: Libraries including Python's standard libraries</br>  (1:27)
 
 - Lectures 5 and 6
   - https://youtu.be/awVVjpBzuaI?t=730
@@ -126,3 +133,13 @@ docker run -d --name python3 python:3.10 sleep inf
 docker exec -it python3 /bin/bash
 ```
 
+
+
+## Additional resources
+
+
+The Python Wiki
+- [https://wiki.python.org/moin/](https://wiki.python.org/moin/)
+
+
+This site seems a bit stale. So, YMMV.
