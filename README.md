@@ -126,7 +126,7 @@ docker build -t my_python:3.10 - <<'eof'
 eof
 ```
 Those commands create a Docker image with Python 3, an editor ( vim ), and a JSON query tool ( jq ).
-For a more elaborate build file, see the ./docker/Dockerfile.
+For a more elaborate build file, see the [./docker/Dockerfile](./docker/Dockerfile).
 
 
 To use the image, use Docker run to launch a container instance.
