@@ -120,8 +120,8 @@ You can build your own Docker image to contain the almost latest version of Pyth
 docker build -t my_python:3.10 - <<'eof'
 FROM ubuntu:22.04
 RUN DEBIAN_FRONTEND=noninteractive \
-  apt-get update && \
-  apt-get install -y python3-pip vim jq
+    apt-get update && \
+    apt-get install -y python3-pip vim jq
 COPY Dockerfile /
 eof
 ```
