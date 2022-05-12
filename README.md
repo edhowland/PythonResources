@@ -117,23 +117,52 @@ Links on Amazon
 ## Docker Image
 You can build your own Docker image to contain the almost latest version of Python.
 ```bash
-docker build -t python:3.10 - <<'eof'
-  FROM ubuntu:22.04
-  RUN DEBIAN_FRONTEND=noninteractive \
+docker build -t my_python:3.10 - <<'eof'
+FROM ubuntu:22.04
+RUN DEBIAN_FRONTEND=noninteractive \
     apt-get update && \
     apt-get install -y python3-pip vim jq
-  COPY Dockerfile /
+COPY Dockerfile /
 eof
 ```
 Those commands create a Docker image with Python 3, an editor ( vim ), and a JSON query tool ( jq ).
+For a more elaborate build file, see the [./docker/Dockerfile](./docker/Dockerfile).
 
-To use the image, use Docker run to launch a container instance.  My preference is to launch the container as a service and then exec into it.
+
+To use the image, use Docker run to launch a container instance.
+### Example #1 - Super simple
 ```bash
-docker run -d --name python3 python:3.10 sleep inf
+docker run --rm -it my_python:3.10 python3
+```
+This gets you into an interactive python3 session.  And when you exit ( Ctrl-D ), the container is removed.
+
+### Example #2 - Daemon mode
+```bash
+docker run -d --name python3 my_python:3.10 sleep inf
 docker exec -it python3 /bin/bash
+# you can leave the container by typing `exit` and re-enter with the `docker exec ...` command
+```
+This launches the container as a service that you can exec into it, in this case, running a bash shell.
+
+Stoping, re-starting, pausing, and unpausing the container
+```bash
+docker stop python3
+docker start python3
+docker pause python3
+docker unpause python3
+```
+Once the container is stopped, you can remove the container
+```bash
+docker rm python3
 ```
 
-
+### Example #3 - Mounted local folder
+This is similar to the daemon example, but shares the current folder with the container.
+```bash
+docker run -d --name python3 -v "${PWD}":/tmp/python3 -w /tmp/python3 my_python:3.10 sleep inf
+docker exec -it python3 /bin/bash
+```
+Your current directory in the container will automatically be /tmp/python3, which is shared with the local file system.
 
 ## Additional resources
 
