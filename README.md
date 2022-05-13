@@ -209,6 +209,12 @@ Your current directory in the container will automatically be /tmp/python3, whic
 
 ## Additional resources
 
+### Python playlist on ComputerPhile
+
+- [https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w](https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w)
+
+The above playlist shows how to write a simple Pong-like game in PyGame.
+
 
 The Python Wiki
 - [https://wiki.python.org/moin/](https://wiki.python.org/moin/)
