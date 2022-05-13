@@ -9,6 +9,9 @@ was the current stable release of Python.
 
 ## Documentation
 
+### The main Python site: python.org
+- [https://www.python.org](https://www.python.org)
+
 ### The main Python docs
 - https://docs.python.org/3/
 
@@ -269,18 +272,56 @@ Your current directory in the container will automatically be /tmp/python3, whic
 ## Additional resources
 
 ### Python playlist on ComputerPhile
-
 - [https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w](https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w)
-
 The above playlist shows how to write a simple Pong-like game in PyGame.
+
+
+## Websites
+
+### Real Python
+- [https://realpython.com](https://realpython.com)
+
+### Google Python training
+- [https://developers.google.com/edu/python](https://developers.google.com/edu/python)
+
+Note: This site is for someone who has a bit of programming background and wants to learn Python.
+
+### Meta collection of Python blogs and Websites
+- [https://blog.feedspot.com/python_blogs/](https://blog.feedspot.com/python_blogs/)
 
 
 The Python Wiki
 - [https://wiki.python.org/moin/](https://wiki.python.org/moin/)
+Note: This site seems a bit stale. So, YMMV.
 
 
-This site seems a bit stale. So, YMMV.
+## Blogs and newsletters
 
+### Red hat Python stuff
+- [https://developers.redhat.com/topics/python/all](https://developers.redhat.com/topics/python/all)
+
+
+## inventwithpython -: Automate the boring stuff with Python blog
+- [http://inventwithpython.com/blog/](http://inventwithpython.com/blog/)
+
+From his site:
+"Hi, I'm Al Sweigart. I am the creator of this blog, The Invent with Python which focuses on python programming, tips, and libraries. I'm also the author of 'Automate the Boring Stuff with Python'."
+
+## Podcasts
+
+These podcasts are ones I am actually subscribes to.
+
+### Talk Python to me
+- [https://talkpython.fm/home](https://talkpython.fm/home)
+
+### Real Python
+- [https://realpython.com/podcasts/rpp/](https://realpython.com/podcasts/rpp/)
+
+## PDFs
+
+### Learning Python
+- [https://oiipdf.com/download/learning-python-4th-editio](https://oiipdf.com/download/learning-python-4th-edition)
+n
 
 
 ## Selected notes from Python docs
@@ -311,4 +352,3 @@ Any color you want, as long as it is black. (Ford, Henery ???)
 
 ### pytest: Unit test your code
 - [https://docs.pytest.org/en/7.1.x/](https://docs.pytest.org/en/7.1.x/)
-
