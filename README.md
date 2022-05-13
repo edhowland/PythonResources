@@ -165,6 +165,9 @@ on automation and web scraping.
 
 ### Tina Huang
 - [https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dwwhttps://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
+
+Note: This channel focuses on more than just Python and data science topics.
+It is also a useful resource for career building, study habits and personal productivity.
 ### Michael Kennedy
 - [https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w](https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w)
 
