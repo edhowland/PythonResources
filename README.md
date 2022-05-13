@@ -110,7 +110,7 @@ Note: I might have missed a few other topics in Lec 9.
 
 ### Additional material  in Lecture 9
 
-The beginnig of the Lecture 9 video contains 2 additioonal mini-lectures
+The beginning of the Lecture 9 video contains 2 additioonal mini-lectures
 
 - Debugging
 - Python style.
@@ -157,13 +157,13 @@ List Comprehensions and generators from PyCon 2018
 ### Chris Jordan
 - [https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop](https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop)
 Note: Prof. Jordan is an college teacher with many beginner to intermediate
-tutorial and classe lectures on many CS topics and using Python.
+tutorial and classes lectures on many CS topics and using Python.
 
 
 ### Jhon Watson Ronney
 - [https://www.youtube.com/c/JohnWatsonRooney?app=desktop](https://www.youtube.com/c/JohnWatsonRooney?app=desktop)
 
-Note: This guy is a self taught Python programmer. His channel focusses
+Note: This guy is a self taught Python programmer. His channel focuses
 on automation and web scraping.
 
 ### Tina Huang
@@ -204,8 +204,6 @@ by many other YouTubers.
 ### Kite
 - [https://www.youtube.com/c/KiteHQ/featured](https://www.youtube.com/c/KiteHQ/featured)
 
-Note: Kite is a AI auto-suggestor for your Python developments Therre are uite a few
-general purpose videos inside here.
 
 
 ## Books
@@ -249,7 +247,7 @@ docker exec -it python3 /bin/bash
 ```
 This launches the container as a service that you can exec into it, in this case, running a bash shell.
 
-Stoping, re-starting, pausing, and unpausing the container
+Stopping, re-starting, pausing, and unpausing the container
 ```bash
 docker stop python3
 docker start python3
