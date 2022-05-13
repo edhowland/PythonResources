@@ -153,15 +153,18 @@ List Comprehensions and generators from PyCon 2018
 
 ### Chris Jordan
 - [https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop](https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop)
+Note: Prof. Jordan is an college teacher with many beginner to intermediate
+tutorial and classe lectures on many CS topics and using Python.
+
 
 ### Jhon Watson Ronney
 - [https://www.youtube.com/c/JohnWatsonRooney?app=desktop](https://www.youtube.com/c/JohnWatsonRooney?app=desktop)
 
 Note: This guy is a self taught Python programmer. His channel focusses
 on automation and web scraping.
-Note: Prof. Jordan is an college teacher with many beginner to intermediate
-tutorial and classe lectures on many CS topics and using Python.
 
+### Tina Huang
+- [https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dwwhttps://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
 ### Michael Kennedy
 - [https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w](https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w)
 
