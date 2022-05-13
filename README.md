@@ -122,6 +122,12 @@ List Comprehensions and generators from PyCon 2018
 
 ## Youtube channels
 
+### MCoding : James Murphy
+- [https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
+
+### Michael Kennedy
+- [https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w](https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w)
+
 ### Tech with Tim
 - https://www.youtube.com/c/TechWithTim
 
@@ -132,6 +138,13 @@ This guy drinks WAY too much coffee
 
 ### David Beazley
 - https://www.youtube.com/channel/UCbNpPBMvCHr-TeJkkezog7Q
+
+### Anthony Explains
+- [https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+
+### Neural Nine
+- [https://www.youtube.com/c/NeuralNine/featured](https://www.youtube.com/c/NeuralNine/featured)
+
 
 ## Books
 
