@@ -150,12 +150,26 @@ List Comprehensions and generators from PyCon 2018
 ### MCoding : James Murphy
 - [https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg](https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg)
 
+
+### Chris Jordan
+- [https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop](https://www.youtube.com/channel/UCX9XmkgL18qniGOmA2TyAGw?app=desktop)
+
+### Jhon Watson Ronney
+- [https://www.youtube.com/c/JohnWatsonRooney?app=desktop](https://www.youtube.com/c/JohnWatsonRooney?app=desktop)
+
+Note: This guy is a self taught Python programmer. His channel focusses
+on automation and web scraping.
+Note: Prof. Jordan is an college teacher with many beginner to intermediate
+tutorial and classe lectures on many CS topics and using Python.
+
 ### Michael Kennedy
 - [https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w](https://www.youtube.com/channel/UCB2z8yryU2efaHA74MoDN8w)
 
 ### Tech with Tim
 - https://www.youtube.com/c/TechWithTim
 
+### Clear Code
+- [https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ](https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ)
 ### NetworkChuck
 
 This guy drinks WAY too much coffee
@@ -169,6 +183,20 @@ This guy drinks WAY too much coffee
 
 ### Neural Nine
 - [https://www.youtube.com/c/NeuralNine/featured](https://www.youtube.com/c/NeuralNine/featured)
+
+### Coding is fun
+- [https://www.youtube.com/c/codingisfun](https://www.youtube.com/c/codingisfun)
+
+### ArjanCodes
+- [https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA)
+
+Note: This guy is a Professor of Computer Science. His channel is recommended
+by many other YouTubers.
+### Kite
+- [https://www.youtube.com/c/KiteHQ/featured](https://www.youtube.com/c/KiteHQ/featured)
+
+Note: Kite is a AI auto-suggestor for your Python developments Therre are uite a few
+general purpose videos inside here.
 
 
 ## Books
