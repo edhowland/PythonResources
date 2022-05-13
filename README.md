@@ -9,8 +9,20 @@ was the current stable release of Python.
 
 ## Documentation
 
-The main Python docs
+### The main Python docs
 - https://docs.python.org/3/
+
+###  Find, install and publish Python packages with the Python Package Index
+- [https://pypi.org](https://pypi.org)
+
+### The Python Packaging  Authority
+- [https://www.pypa.io/en/latest/](https://www.pypa.io/en/latest/)
+
+From their webpage:
+
+ The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
+The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as  pypi.
+
 
 ##  Python tutorial videos
 
@@ -78,7 +90,13 @@ CS50P
   9: Misc. Python features and wrap-up
     * Set data type
     * Globals and Constants
+  * argument parsing
+  * list, dictionarry unpacking with '*list', '**dict'
+  * variadic functions with '*args, **kwargs'
+  * list, dictionary comprehensions
+  * generators
 
+Note: I might have missed a few other topics in Lec 9.
 
 ### Additional material  in Lecture 9
 
@@ -231,3 +249,21 @@ These are some links within docs.python.org that I have found useful.
 ### Errors and Exception
 
 - [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
+
+## Package documentation
+
+Note: The first 4 packages are installed in the supplied   [./docker/Dockerfile](./docker/Dockerfile).
+
+### Sphinx : Document your Python code
+- [https://www.sphinx-doc.org/en/master/](https://www.sphinx-doc.org/en/master/)
+
+### Black : Lint/re-format your code
+- [https://github.com/psf/black](https://github.com/psf/black)
+Any color you want, as long as it is black. (Ford, Henery ???)
+
+### mypy: Type check your code with Python type hints
+- [https://mypy.readthedocs.io/en/stable/](https://mypy.readthedocs.io/en/stable/)
+
+### pytest: Unit test your code
+- [https://docs.pytest.org/en/7.1.x/](https://docs.pytest.org/en/7.1.x/)
+
