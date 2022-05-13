@@ -34,6 +34,14 @@ Note re: timecodes Where possible, for the multiple lectures we have inserted th
 We have attempted to give a approximate 1 minute of fudge factor before the lecture start.
 If you feel we have errored herein, please fork, fix and do a PR.
 
+### Course web site
+
+[https://cs50.harvard.edu/python/2022/](https://cs50.harvard.edu/python/2022/)
+
+### CS50 YouTube channel
+
+[https://www.youtube.com/c/cs50/videos](https://www.youtube.com/c/cs50/videos)
+
 CS50P
 - Lectures 0, 1 and 2
   - https://youtu.be/TJKnZ784bSI?t=461
@@ -58,6 +66,28 @@ CS50P
   - https://youtu.be/ENSHLS5DW8A?t=1116
 
   7: Regular Expressions
+
+- Lecture 8
+  - [https://www.youtube.com/watch?v=Ez5TgiFQhHg](https://www.youtube.com/watch?v=Ez5TgiFQhHg)
+
+  8: Object oriented programming
+
+- Lecture 9
+  - [https://www.youtube.com/watch?v=k83sNsEqXY4](https://www.youtube.com/watch?v=k83sNsEqXY4)
+
+  9: Misc. Python features and wrap-up
+    * Set data type
+    * Globals and Constants
+
+
+### Additional material  in Lecture 9
+
+The beginnig of the Lecture 9 video contains 2 additioonal mini-lectures
+
+- Debugging
+- Python style.
+  * PEP 8
+  * Linters like black.
 
 ## David Beazley videos from various PyCons
 
@@ -172,3 +202,13 @@ The Python Wiki
 
 
 This site seems a bit stale. So, YMMV.
+
+
+
+## Selected notes from Python docs
+
+These are some links within docs.python.org that I have found useful.
+
+### Errors and Exception
+
+- [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
