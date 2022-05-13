@@ -17,11 +17,18 @@ was the current stable release of Python.
 
 ### The Python Packaging  Authority
 - [https://www.pypa.io/en/latest/](https://www.pypa.io/en/latest/)
-
 From their webpage:
 
  The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
 The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as  pypi.
+
+
+#### The key projects managed by the PPA
+
+- [https://packaging.python.org/en/latest/key_projects/#pypa-projects](https://packaging.python.org/en/latest/key_projects/#pypa-projects)
+
+Note: Many of the above projects are used in managing multiple Python environments.
+
 
 
 ##  Python tutorial videos
@@ -247,8 +254,12 @@ This site seems a bit stale. So, YMMV.
 These are some links within docs.python.org that I have found useful.
 
 ### Errors and Exception
-
 - [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
+
+### Creating and manging virtual Python environments
+- [https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments)
+
+Note also contains instructions and installing Python and pip for your OS.
 
 ## Package documentation
 
