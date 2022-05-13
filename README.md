@@ -110,11 +110,12 @@ Note: I might have missed a few other topics in Lec 9.
 
 ### Additional material  in Lecture 9
 
-The beginning of the Lecture 9 video contains 2 additioonal mini-lectures
+The beginning of the Lecture 9 video contains 2 additional mini-lectures
 
 - Debugging
 - Python style.
   * PEP 8
+    - [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/)
   * Linters like black.
 
 ## David Beazley videos from various PyCons
@@ -160,7 +161,7 @@ Note: Prof. Jordan is an college teacher with many beginner to intermediate
 tutorial and classes lectures on many CS topics and using Python.
 
 
-### Jhon Watson Ronney
+### John Watson Rooney
 - [https://www.youtube.com/c/JohnWatsonRooney?app=desktop](https://www.youtube.com/c/JohnWatsonRooney?app=desktop)
 
 Note: This guy is a self taught Python programmer. His channel focuses
