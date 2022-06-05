@@ -183,7 +183,8 @@ It is also a useful resource for career building, study habits and personal prod
 ### NetworkChuck
 
 This guy drinks WAY too much coffee
-- https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ
+- https://www.youtube.com/c# You
+hannel/UC9x0AN7BWHpCDHSm9NiJFJQ
 
 ### David Beazley
 - https://www.youtube.com/channel/UCbNpPBMvCHr-TeJkkezog7Q
@@ -205,6 +206,11 @@ by many other YouTubers.
 ### Kite
 - [https://www.youtube.com/c/KiteHQ/featured](https://www.youtube.com/c/KiteHQ/featured)
 
+###Live Python
+- [https://www.youtube.com/channel/UCRwRIpYnYiiXbwE7wChJ6SQ](https://www.youtube.com/channel/UCRwRIpYnYiiXbwE7wChJ6SQ)
+
+This guy goes a bit above basic and intermediate Python programmer levels.
+Good topics on generators, coroutines and async programming concepts.
 
 
 ## Books
@@ -274,6 +280,13 @@ Your current directory in the container will automatically be /tmp/python3, whic
 - [https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w](https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w)
 The above playlist shows how to write a simple Pong-like game in PyGame.
 
+### Python coding playlist on Socratica channel
+- [https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+
+This lady must be some sort of scientific royality.
+Her videos are always entertaining full of amusing cultural references.
+She has a very academic manner. Quite enjoyable.
+
 
 ## Websites
 
@@ -285,13 +298,26 @@ The above playlist shows how to write a simple Pong-like game in PyGame.
 
 Note: This site is for someone who has a bit of programming background and wants to learn Python.
 
+## Blogs and posts
+
+A collection of  blogs and blog posts relevant to Python programming.
+
+### What color is your function
+- [https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+A treatise on async programming in general. Many languages these days include
+the keywords 'async' and 'await'.  Python, since about 3.5 also has these keywords.
+This style of coding is called concurrent programming or non-blocking functions. But mixing  sync code and async code can be
+messy. The article discusses this in depth.
+
 ### Meta collection of Python blogs and Websites
+
 - [https://blog.feedspot.com/python_blogs/](https://blog.feedspot.com/python_blogs/)
 
 
 The Python Wiki
 - [https://wiki.python.org/moin/](https://wiki.python.org/moin/)
-Note: This site seems a bit stale. So, YMMV.
+Note:  This site seems a bit stale. So, YMMV.
 
 
 ## Blogs and newsletters
