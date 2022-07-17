@@ -342,11 +342,29 @@ These podcasts are ones I am actually subscribes to.
 ### Real Python
 - [https://realpython.com/podcasts/rpp/](https://realpython.com/podcasts/rpp/)
 
+## Python conferences
+
+### PyCon 2019
+- [https://www.youtube.com/c/pycon2019/videos](https://www.youtube.com/c/pycon2019/videos)
+
+This collection contains much stuff also covered above. There are many ~30 min topics, lighting talks and 3 hour workshop/tutorials.
+Including one by David Beasley on Lambda Calculus from the ground up.
+And a short by Dr. Chuck (see above c13 hourse Python course above)
+on his largest in the world Python programming course (According to him)
+
 ## PDFs
 
 ### Learning Python
 - [https://oiipdf.com/download/learning-python-4th-editio](https://oiipdf.com/download/learning-python-4th-edition)
-n
+
+
+### PyBites Python learning platform
+
+-  [https://codechalleng.es](https://codechalleng.es)
+
+Their YouTube channel:
+
+- [https://www.youtube.com/c/PyBites/videos](https://www.youtube.com/c/PyBites/videos)
 
 
 ## Selected notes from Python docs
